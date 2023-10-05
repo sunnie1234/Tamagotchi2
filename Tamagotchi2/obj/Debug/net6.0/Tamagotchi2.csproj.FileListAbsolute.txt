@@ -1,0 +1,15 @@
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.csproj.AssemblyReference.cache
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.AssemblyInfoInputs.cache
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.AssemblyInfo.cs
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.csproj.CoreCompileInputs.cache
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\bin\Debug\net6.0\Tamagotchi2.exe
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\bin\Debug\net6.0\Tamagotchi2.deps.json
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\bin\Debug\net6.0\Tamagotchi2.runtimeconfig.json
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\bin\Debug\net6.0\Tamagotchi2.dll
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\bin\Debug\net6.0\Tamagotchi2.pdb
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.dll
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\refint\Tamagotchi2.dll
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.pdb
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\Tamagotchi2.genruntimeconfig.cache
+C:\Users\sunnie.pallante\Documents\Programmering 2\Tamagotchi2\Tamagotchi2\obj\Debug\net6.0\ref\Tamagotchi2.dll
